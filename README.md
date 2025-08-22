@@ -1,7 +1,8 @@
 ### Hi, I'm John Paule Ekisa 
 </p></p>
-Certified Virtual Assistant (ALX) | Developer & Tech Enthusiast**  
-I help businesses and teams stay organized, build digital solutions, and automate workflows with modern tools.  
+Certified Virtual Assistant (ALX) | Developer & Tech Enthusiast  
+I help businesses and teams stay organized, build digital solutions, 
+and automate workflows with modern tools.  
 
 </p> </p>
 
